@@ -2,7 +2,7 @@ name: Automated Workflow
 
 on:
   schedule:
-    - cron: '12 17 * * *'
+    - cron: '36 17 * * *'
   workflow_dispatch:
 
 jobs:
