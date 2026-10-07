@@ -1,7 +1,7 @@
 name: Automated Workflow
 
 on:
-  schedule:
+#  schedule:
 #    - cron: '36 17 * * *'
   workflow_dispatch:
   push:
